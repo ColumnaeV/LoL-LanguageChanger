@@ -1,5 +1,5 @@
-# LoL-LanguageChanger
-League of Legends Language Changer
+# League of Legends Client Language Changer
+Created by ColumnaeV
 
 Simplistic tool for those who play League in a different language then their current regionally locked language.
 
