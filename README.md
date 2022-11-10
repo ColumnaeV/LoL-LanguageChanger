@@ -3,7 +3,7 @@ Created by ColumnaeV
 
 Simplistic tool for those who play League in a different language then their current regionally locked language.
 
-Download: github.com/soncnguyen/LoL-LanguageChanger/raw/main/LeagueLanguageChanger.exe
+Download: [Link](github.com/soncnguyen/LoL-LanguageChanger/raw/main/LeagueLanguageChanger.exe)
 
 Steps:
 - Put the .exe file in "..\Riot Games\League of Legends" directory.
