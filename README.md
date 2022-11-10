@@ -3,9 +3,10 @@ Created by ColumnaeV
 
 Simplistic tool for those who play League in a different language then their current regionally locked language.
 
-1.) Put the .exe file in "..\Riot Games\League of Legends" directory.
-2.) Run the application.
-3.) Follow what's displayed on the command prompt that opens.
+Steps:
+- Put the .exe file in "..\Riot Games\League of Legends" directory.
+- Run the application.
+- Follow what's displayed on the command prompt that opens.
 
 Process of the application:
 - Edits the LeagueClientSettings.yaml found in "League of Legends\Config" directory.
